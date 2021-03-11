@@ -39,4 +39,4 @@ Click **+ Assign licenses**, specify the users, make sure both apps are selected
 
 ## Next
 
-[Provision Omnichannel for Customer Service](Provision-Omnichannel-for-Customer-Service)
+[Provision Omnichannel for Customer Service](Provision-Omnichannel-for-Customer-Service.md)

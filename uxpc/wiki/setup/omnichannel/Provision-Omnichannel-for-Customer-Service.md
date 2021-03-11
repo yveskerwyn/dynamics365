@@ -2,7 +2,7 @@
 
 [[_TOC_]]
 
-In order to provision Omnichannel we must have a license of the Dynamics 365 Customer Service Digital Messaging add-on. If that is not yet the case first follow the steps as documented in [Add a trial of the Dynamics 365 Customer Service Digital Messaging add-on](Add-a-trial-of-the-Dynamics-365-Customer-Service-Digital-Messaging-add%2Don)
+In order to provision Omnichannel we must have a license of the Dynamics 365 Customer Service Digital Messaging add-on. If that is not yet the case first follow the steps as documented in [Add a trial of the Dynamics 365 Customer Service Digital Messaging add-on](Add-a-trial-of-the-Dynamics-365-Customer-Service-Digital-Messaging-add%2Don.md)
 
 
 ## Data access consent
@@ -82,4 +82,4 @@ After 1 hour all finished without errors:
 
 ## Next
 
-[Configure Chat Widget](Configure-Chat-Widget)
+[Configure Chat Widget](Configure-Chat-Widget.md)

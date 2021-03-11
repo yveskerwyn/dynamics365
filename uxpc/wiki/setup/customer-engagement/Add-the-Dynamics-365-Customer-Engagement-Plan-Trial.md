@@ -32,4 +32,4 @@ Check the result under **Billing** | **Licenses**:
 
 ## Next
 
-Proceed to [Assign Licenses](Assigning-Licenses).
+Proceed to [Assign Licenses](Assigning-Licenses.md).

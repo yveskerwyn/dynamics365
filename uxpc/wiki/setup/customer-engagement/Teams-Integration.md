@@ -78,4 +78,4 @@ Check the **Consent on behalf of your organization** option and acccept the requ
 
 ## Next
 
-[Enable the Sales Insights features](Enable-the-Sales-Insights-features).
+[Enable the Sales Insights features](Enable-the-Sales-Insights-features.md).

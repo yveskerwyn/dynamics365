@@ -144,4 +144,4 @@ And when finished:
 
 ## Next
 
-Follow the steps documented in [Teams Integration](Teams-Integration).
+Follow the steps documented in [Teams Integration](Teams-Integration.md).

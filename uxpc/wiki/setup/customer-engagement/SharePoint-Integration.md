@@ -46,4 +46,4 @@ And finally click **Finish**:
 
  ## Next
 
- [Enable the Sales Insights features](Enable-the-Sales-Insights-features)
+ [Enable the Sales Insights features](Enable-the-Sales-Insights-features.md)

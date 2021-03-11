@@ -204,4 +204,4 @@ dynamics-365-advanced-settings-apps-published-apps.png
 
 ## Next
 
-Follow the steps documented in [Outlook Integration](Outlook-Integration).
+Follow the steps documented in [Outlook Integration](Outlook-Integration.md).

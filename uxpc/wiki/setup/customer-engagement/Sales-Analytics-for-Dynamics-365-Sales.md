@@ -36,4 +36,4 @@ Click **Explore app**:
 
 ## Next
 
-[LinkedIn Sales Navigator Integration](LinkedIn-Sales-Navigator-Integration)
+[LinkedIn Sales Navigator Integration](LinkedIn-Sales-Navigator-Integration.md)

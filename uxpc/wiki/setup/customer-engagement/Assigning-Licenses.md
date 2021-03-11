@@ -26,4 +26,4 @@ As a result you will see again all your active users, now with the new licenses 
 
 ## Next
  
-Follow the steps documented in [Assign Roles](Assigning-Roles).
+Follow the steps documented in [Assign Roles](Assigning-Roles.md).

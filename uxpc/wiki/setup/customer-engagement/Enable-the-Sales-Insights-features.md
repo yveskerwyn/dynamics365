@@ -92,4 +92,4 @@ Also see the documentation: [Configure and enable email engagement](https://docs
 
 ## Next
 
-[Sales Analytics for Dynamics 365 Sales](Sales-Analytics-for-Dynamics-365-Sales)
+[Sales Analytics for Dynamics 365 Sales](Sales-Analytics-for-Dynamics-365-Sales.md)

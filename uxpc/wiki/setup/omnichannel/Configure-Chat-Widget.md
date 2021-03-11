@@ -81,4 +81,4 @@ Open the **Chat Widget Code**, go to the HTML tab, paste the code snippet from t
 
  ## Next
 
- [Test Omnichannel for Customer Service](Test-Omnichannel)
+ [Test Omnichannel for Customer Service](Test-Omnichannel.md)
