@@ -16,7 +16,7 @@ Go to the Microsoft 365 E5 page:
 
 In case you have chosen for the "United States - English" (**en-us** in the above URL) version of the webpage click **Blijf in: United States - English**:
 
-![image.png](images/start-with-microsoft-e5-trial-en-us.png =700x)
+![image.png](images/start-with-microsoft-e5-trial-en-us.png){:height="50%" width="50%"}
 
 Click the **Free trial** button:
 
