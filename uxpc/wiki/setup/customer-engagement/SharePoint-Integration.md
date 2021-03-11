@@ -6,11 +6,11 @@ Go to **Advanced Settings** of your Dynamics 365 environment.
 
 Go to **Settings** | **System** | **Document Management**:
 
-![Advanced-Settings](images/sales-sharepoint-integration-advanced-settings-system-document-management.png =700x)
+![Advanced-Settings](images/sales-sharepoint-integration-advanced-settings-system-document-management.png)
 
 Here we have to click on **Enable Server-Based SharePoint Integration**:
 
-![Enable-Server-BASED-SharePoint-Integration](images/sales-sharepoint-integration-enable-server-based-sharepoint-integration.png =700x)
+![Enable-Server-BASED-SharePoint-Integration](images/sales-sharepoint-integration-enable-server-based-sharepoint-integration.png)
 
 Follow the steps as show below, in the third step provide the link to your SharePoint environment which is https://{your-domain-name}.sharepoint.com:
 

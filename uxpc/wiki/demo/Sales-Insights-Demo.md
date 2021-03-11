@@ -4,7 +4,7 @@
 
 https://docs.microsoft.com/en-us/dynamics365/ai/sales/overview
 
-![si-features-categories](images/si-features-categories.png =700x)
+![si-features-categories](images/si-features-categories.png)
 
 
 See all AI apps:

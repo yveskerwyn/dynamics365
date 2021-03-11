@@ -1,7 +1,5 @@
 # Start with a Microsoft E5 Trial
 
-[[_TOC_]]
-
 ## Edge Profile
 
 It is recommended that you follow the steps below after having created a new Edge profile, as documented in [Add Edge Profile](Add-New-Edge-Profile).
@@ -17,7 +15,6 @@ Go to the Microsoft 365 E5 page:
 In case you have chosen for the "United States - English" (**en-us** in the above URL) version of the webpage click **Blijf in: United States - English**:
 
 ![image.png](images/start-with-microsoft-e5-trial-en-us.png)
-<img src="images/start-with-microsoft-e5-trial-en-us.png" width="700">
 
 Click the **Free trial** button:
 

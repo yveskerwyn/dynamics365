@@ -20,11 +20,11 @@ Accept the requested permissions:
 
 Go to the **Power platform admin center** via https://aka.ms/ppac, navigate to the Dynamics 365 apps that haven been installed on the tenant level, scroll down to the **Omnichanel for Customer Service** application and choose **Manage** from the context menu: https://admin.powerplatform.microsoft.com/resources/applications
 
-![image](images/omnichannel-manage.png =900x)
+![image](images/omnichannel-manage.png)
 
 Click **OK**:
 
-![image](images/omnichannel-manage-ok.png =900x)
+![image](images/omnichannel-manage-ok.png)
 
 
 Accept the requested permissions:
@@ -34,28 +34,28 @@ Accept the requested permissions:
 
 Click **+ Add environment**:
 
-![image](images/omnichannel-add-environment.png =900x)
+![image](images/omnichannel-add-environment.png)
 
 Next you need to select the correct environment, which is tricky, I took the first one guessing that is the first environment that was created when adding the Sales trial:
 
-![image](images/omnichannel-select-environment.png =900x)
+![image](images/omnichannel-select-environment.png)
 
 
 Go through the wizard:
 
-![image](images/omnichannel-chat.png =900x)
+![image](images/omnichannel-chat.png)
 
-![image](images/omnichannel-sms.png =900x) 
+![image](images/omnichannel-sms.png) 
 
-![image](images/omnichannel-social.png =900x)
+![image](images/omnichannel-social.png)
 
-![image](images/omnichannel-teams.png =900x)
+![image](images/omnichannel-teams.png)
 
-![image](images/omnichannel-confirmation.png =900x)
+![image](images/omnichannel-confirmation.png)
 
 The actual setup can take qiet some time:
 
-![image](images/omnichannel-provisioning.png =900x)
+![image](images/omnichannel-provisioning.png)
 
 > Here you see the URL of the environment in which the Omnichannels gets provisioned, clicking it will actually reveil that the first environment in the list was actually the first environment.
 
@@ -63,11 +63,11 @@ The actual setup can take qiet some time:
 
 If you get an error at some point, don't worry, just click the error away, probably the installation is still in progress:
 
-![image](images/omnichannel-still-provisioning.png =900x)
+![image](images/omnichannel-still-provisioning.png)
 
 After 1 hour all finished without errors:
 
-![image](images/omnichannel-provisioning-done.png =900x)
+![image](images/omnichannel-provisioning-done.png)
 
 
 ## Documentation

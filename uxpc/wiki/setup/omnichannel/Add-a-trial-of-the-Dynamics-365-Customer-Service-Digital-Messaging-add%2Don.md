@@ -6,7 +6,7 @@ Go to the Microsoft 365 admin center: admin.microsoft.com.
 
 Navigate to **Billing** | **Purchase services**, scroll down and click **Add-ons**:
 
-![screenshot](images/microsoft-365-add-ons.png =900x)
+![screenshot](images/microsoft-365-add-ons.png)
 
 In the list with all available add-ons scroll down, check if **Dynamics 365 Customer Service Digital Messaging add-on** is listed.
 
@@ -15,27 +15,27 @@ In the list with all available add-ons scroll down, check if **Dynamics 365 Cust
 
 and click the tile of the trial of the **Dynamics 365 Customer Service Digital Messaging add-on**:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on.png)
 
 Click the **Get free trial** button:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-get-free-trial.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-get-free-trial.png)
 
 Click the **Try now** button:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-try-now.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-try-now.png)
 
 Click the **Continue** button:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-continue.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-continue.png)
 
 Next we will assign the trial license to the users. In **Billing** | **Licenses** click the license:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-licenses.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-licenses.png)
 
 Click **+ Assign licenses**, specify the users, make sure both apps are selected, and click **Assign**:
 
-![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-assign-licenses.png =900x)
+![screenshot](images/microsoft-365-customer-service-digital-messaging-add-on-assign-licenses.png)
 
 ## Next
 
