@@ -48,6 +48,8 @@ Enable **premium** auto capture:
 
 ![iamge.png](images/enable-sales-insights-enable-auto-capture-premium.png)
 
+Enable Premium auto capture for **All security roles** and then click **Save**:
+
 ![iamge.png](images/enable-sales-insights-configure-auto-capture-premium.png)
 
 Be aware that enabling premium auto capture for all security roles will disable the basic version:
