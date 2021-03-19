@@ -62,17 +62,13 @@ Select **Dynamics 365**:
 
 ![iamge.png](images/teams-integration-teams-apps-select-dynamics-365.png)
 
-Click **Add**, and then **Configure**:
+Click **Add**, and click the **Settings tab**:
 
-![iamge.png](images/teams-integration-teams-apps-configure-dynamics-365.png)
+![](teams-integration-teams-apps-settings-dynamics-365.png)
 
-Choose your environment and that click **Save**:
+Choose your environment and **Sales Hub** as the application you want to access and click **Save Changes**:
 
 ![iamge.png](images/teams-integration-teams-apps-dynamics-365-save-configuration.png)
-
-Check the **Consent on behalf of your organization** option and acccept the requested permissions:
-
-![iamge.png](images/teams-integration-teams-accept-permissions.png)
 
 ## Next
 
