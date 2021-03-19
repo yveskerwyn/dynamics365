@@ -127,4 +127,4 @@ And finally click the **Sync** button:
 
 ## Next
 
-Proceed to [Add the Dynamics 365 Customer Engagement Plan Trial](Add-the-Dynamics-365-Customer-Engagement-Plan-Trial.md).
+[Add the Dynamics 365 Customer Engagement Plan Trial](Add-the-Dynamics-365-Customer-Engagement-Plan-Trial.md)

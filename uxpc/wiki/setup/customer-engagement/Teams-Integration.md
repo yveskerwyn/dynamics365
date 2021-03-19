@@ -1,7 +1,5 @@
 # Teams Integration
 
-[[_TOC_]]
-
 Documentation:
 [Install and setup Microsoft Teams integration](https://docs.microsoft.com/en-us/dynamics365/teams-integration/teams-install-app)
 
@@ -78,4 +76,4 @@ Check the **Consent on behalf of your organization** option and acccept the requ
 
 ## Next
 
-[Enable the Sales Insights features](Enable-the-Sales-Insights-features.md).
+[Enable the Sales Insights features](Enable-the-Sales-Insights-features.md)

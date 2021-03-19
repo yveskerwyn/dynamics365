@@ -1,7 +1,5 @@
 # Assign Dynamics 365 Roles
 
-[[_TOC_]]
-
 ## First add your users to your environment (organization)
 
 > For more details see the documentation: [Create users and assign security roles](https://docs.microsoft.com/en-us/power-platform/admin/create-users-assign-online-security-roles)
@@ -204,4 +202,4 @@ dynamics-365-advanced-settings-apps-published-apps.png
 
 ## Next
 
-Follow the steps documented in [Outlook Integration](Outlook-Integration.md).
+[Outlook Integration](Outlook-Integration.md)

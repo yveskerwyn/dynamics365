@@ -1,7 +1,5 @@
 # Enable the (free) Sales Insights features
 
-[[_TOC_]]
-
 > Also see the documentation: [Enable and configure auto capture](https://docs.microsoft.com/en-us/dynamics365/ai/sales/configure-auto-capture).
 
 Navigate to **Advanced Settings**:

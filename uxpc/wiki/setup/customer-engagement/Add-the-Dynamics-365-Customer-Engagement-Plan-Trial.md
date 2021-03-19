@@ -1,7 +1,5 @@
 # Add the Dynamics 365 Customer Engagement Plan Trial
 
-[[_TOC_]]
-
 After having created a Microsoft 365 trial the best next step is to add a trial of the **Dynamics 365 Customer Engagement Plan**  to your tenant.
 
 In the **Microsoft 365 admin center** navigate to **Billing** | **Purchase services**, and collaps the sections **Microsoft 365**, **Office 365** and **Business apps**:
@@ -32,4 +30,4 @@ Check the result under **Billing** | **Licenses**:
 
 ## Next
 
-Proceed to [Assign Licenses](Assigning-Licenses.md).
+[Assign Licenses](Assigning-Licenses.md)

@@ -1,7 +1,5 @@
 # Assign Dynamics 365 Licenses
 
-[[_TOC_]]
-
 The below steps are typically followed after having added a trial of the **Dynamics 365 Customer Engagement Plan** to your tenant.
 
 In case your didn't yet add a trial of the **Dynamics 365 Customer Engagement Plan** plan follow the steps as documented in [Add the Dynamics 365 Customer Engagement Plan Trial](Add-the-Dynamics-365-Customer-Engagement-Plan-Trial.md)
@@ -26,4 +24,4 @@ As a result you will see again all your active users, now with the new licenses 
 
 ## Next
  
-Follow the steps documented in [Assign Roles](Assigning-Roles.md).
+[Assign Roles](Assigning-Roles.md)

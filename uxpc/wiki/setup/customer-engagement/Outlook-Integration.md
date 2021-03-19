@@ -1,7 +1,5 @@
 # Outlook Integration
 
-[[_TOC_]]
-
 For users to be eligible for the **Microsoft Dynamics 365 App for Outlook** Office add-in they need to:
 - Have server-side synchronization set up on the users' mailboxes for incoming emails, appointments, contacts and tasks
 - Have the **Dynamics 365 App for Outlook User** security role assigned
@@ -144,4 +142,4 @@ And when finished:
 
 ## Next
 
-Follow the steps documented in [Teams Integration](Teams-Integration.md).
+[Teams Integration](Teams-Integration.md)
