@@ -1,7 +1,5 @@
 # Customer Portal Setup
 
-[[_TOC_]]
-
 ## Create the portal
 
 Go to the **Power Apps Maker Portal**:
