@@ -1,7 +1,5 @@
 # Provision Omnichannel for Customer Service
 
-[[_TOC_]]
-
 In order to provision Omnichannel we must have a license of the Dynamics 365 Customer Service Digital Messaging add-on. If that is not yet the case first follow the steps as documented in [Add a trial of the Dynamics 365 Customer Service Digital Messaging add-on](Add-a-trial-of-the-Dynamics-365-Customer-Service-Digital-Messaging-add%2Don.md)
 
 
