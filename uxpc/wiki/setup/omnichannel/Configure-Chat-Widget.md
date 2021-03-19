@@ -1,7 +1,5 @@
 # Configure Chat Widget
 
-[[_TOC_]]
-
 Make sure you have followed the steps in [Provision Omnichannel for Customer Service](Provision-Omnichannel-for-Customer-Service).
 
 Go to the **Omnichannel Administration** app via [Power Apps Maker Portal](https://make.powerapps.com) or via the [Dynamics 365 Home](https://home.dynamics.com/) - shown hereunder:

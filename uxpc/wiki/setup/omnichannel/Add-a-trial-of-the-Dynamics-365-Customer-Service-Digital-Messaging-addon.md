@@ -1,7 +1,5 @@
 # Add a trial of the Dynamics 365 Customer Service Digital Messaging add-on
 
-[[_TOC_]]
-
 Go to the Microsoft 365 admin center: admin.microsoft.com.
 
 Navigate to **Billing** | **Purchase services**, scroll down and click **Add-ons**:
