@@ -12,7 +12,7 @@ Using your own **Edge Profile** navigate to the **Omnichannel for Customer Servi
 
 ![image.png](images/omnichannel-for-customer-service-app-with-missing-presence.png)
 
-In case - as shown above - no presence information is shown, check wether the user has been assigned the **Omnichannel for Customer Service** security role.
+In case - as shown above - no presence information is shown, check wether the user has been assigned the **Omnichannel for Customer Service** security role. In case that doesn't help, check [Troubleshooting](troubleshooting.md).
 
 ## Next
 
