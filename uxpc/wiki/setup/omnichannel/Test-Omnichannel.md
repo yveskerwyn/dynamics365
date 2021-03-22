@@ -16,8 +16,17 @@ In case - as shown above - no presence information is shown, check wether the us
 
 ![omnichannel-security-roles](images/omnichannel-security-roles.png)
 
-
 In case that doesn't help, check [Troubleshooting](troubleshooting.md).
+
+What you should see is the following:
+
+![omnichannel-for-customer-service-authenticating](images/omnichannel-for-customer-service-authenticating.png)
+
+![omnichannel-for-customer-service-ready](images/omnichannel-for-customer-service-ready.png)
+
+And finally:
+
+
 
 ## Next
 
