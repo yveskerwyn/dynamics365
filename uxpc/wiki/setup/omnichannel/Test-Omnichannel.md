@@ -22,11 +22,11 @@ What you should see is the following:
 
 ![omnichannel-for-customer-service-authenticating](images/omnichannel-for-customer-service-authenticating.png)
 
-![omnichannel-for-customer-service-ready](images/omnichannel-for-customer-service-ready.png)
+![omnichannel-for-customer-service-preparing-notifications](images/omnichannel-for-customer-service-preparing-notifications.png)
 
 And finally:
 
-
+![omnichannel-for-customer-service-ready](images/omnichannel-for-customer-service-ready.png)
 
 ## Next
 
