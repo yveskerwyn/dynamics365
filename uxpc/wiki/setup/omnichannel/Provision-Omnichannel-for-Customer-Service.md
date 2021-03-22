@@ -12,22 +12,26 @@ https://go.microsoft.com/fwlink/?linkid=2070932
 
 Accept the requested permissions:
 
-![image](images/omnichannel-accept-permissions.png)
+![omnichannel-accept-permissions](images/omnichannel-accept-permissions.png)
 
 ## Provision Omnichannel into your first environment
 
-Go to the **Power platform admin center** via https://aka.ms/ppac, navigate to the Dynamics 365 apps that haven been installed on the tenant level, scroll down to the **Omnichanel for Customer Service** application and choose **Manage** from the context menu: https://admin.powerplatform.microsoft.com/resources/applications
+Go to the **Power platform admin center** via https://aka.ms/ppac, navigate to the Dynamics 365 apps that haven been installed on the tenant level, scroll down to the **Omnichanel for Customer Service** application: https://admin.powerplatform.microsoft.com/resources/applications.
 
-![image](images/omnichannel-manage.png)
+> In case **Omnichanel for Customer Service** is not listed, first add a trial of **Dynamics 365 Customer Service** to your tenant.
+
+Click **Manage** from the context menu of the **Omnichanel for Customer Service** application:
+
+![omnichannel-manage](images/omnichannel-manage.png)
 
 Click **OK**:
 
-![image](images/omnichannel-manage-ok.png)
+![omnichannel-manage-ok](images/omnichannel-manage-ok.png)
 
 
 Accept the requested permissions:
 
-![image](images/omnichannel-accept-permissions2.png)
+![omnichannel-accept-permissions2](images/omnichannel-accept-permissions2.png)
 
 
 Click **+ Add environment**:
