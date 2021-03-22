@@ -15,10 +15,6 @@
 - [Marketing Setup](./marketing/Marketing-Setup.md)
 
 
-## Customer Voice
-
-- [Dynamics 365 Customer Voice Setup](./customer-voice/Setup-Dynamics-365-Customer-Voice.md)
-
 ## Misc
 
 - [AI Builder Demo Setup](./aibuilder/AI-Builder-Demo-Setup.md)
