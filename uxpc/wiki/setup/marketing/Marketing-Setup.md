@@ -3,7 +3,7 @@
 Go to the Marketing trial page:
 https://trials.dynamics.com/Dynamics365/marketing
 
-![/marketing-trial](images/attachments/marketing-trial.png)
+![/marketing-trial](images/marketing-trial.png)
 
 Enter the email of your admin account and hit **Get Started**:
 
