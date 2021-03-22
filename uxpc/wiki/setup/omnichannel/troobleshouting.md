@@ -2,8 +2,6 @@
 
 See blogpost about the solution I also got from Microsoft here below: https://www.victorsolaya.com/blog/omnichannel-error-in-wave-2/
 
-[[_TOC_]]
-
 ## Check if the Omnichannel Channel Provider is on the org
 
 Go to <orgUrl>/main.aspx?forceUCI=1&pagetype=entitylist&etn=msdyn_ciprovider
