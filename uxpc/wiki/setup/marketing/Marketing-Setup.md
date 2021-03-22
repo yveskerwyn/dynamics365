@@ -3,7 +3,7 @@
 Go to the Marketing trial page:
 https://trials.dynamics.com/Dynamics365/marketing
 
-![Screenshot 2020-03-30 at 20.52.47.png](/uxpc/wiki/attachments/Screenshot%202020-03-30%20at%2020.52.47-4368f040-73de-4a13-9b5b-cf1455183872.png)
+![Screenshot 2020-03-30 at 20.52.47.png](../../attachments/Screenshot%202020-03-30%20at%2020.52.47-4368f040-73de-4a13-9b5b-cf1455183872.png)
 
 Enter the e-mail of your admin account and hit **Get Started**:
 
