@@ -1,4 +1,4 @@
 # Let's get started!
 
-- [Demo Setup](setup/Setup.md)
-- [Demo Flow](demo/Demo-Flow.md)
+- [Dynamics 365 Setup](setup/Setup.md)
+- [Dynamics 365 Demos](demo/Dynamics-365-Demos.md)

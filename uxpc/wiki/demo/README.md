@@ -1,3 +1,3 @@
 # Dynamics 365 Demos
 
-Start here: [Demo Flow](Demo-Flow.md)
+Start here: [Dynamics 365 Demos](Dynamics-365-Demos.md)
