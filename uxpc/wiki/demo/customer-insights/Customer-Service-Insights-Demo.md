@@ -9,4 +9,3 @@ https://docs.microsoft.com/en-us/dynamics365/ai/customer-service-insights/ci-ins
 
 All AI apps:
 https://docs.microsoft.com/en-us/dynamics365/ai/
-
