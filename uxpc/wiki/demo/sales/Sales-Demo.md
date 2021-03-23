@@ -282,23 +282,23 @@ Make sure that at least **Basic auto capture** is enabled:
 
 We'll now connect our opportunity to Microsoft Teams so we can collaborate on it. Click on **Collaborate**:
 
-![Microsoft-Teams-Collaborate](images/sales-new-opportunity-collaborate.png)
+![sales-new-opportunity-collaborate](images/sales-new-opportunity-collaborate.png)
 
 This brings up the following wizard dialog, start by clicking **Get Started**:
 
-![Collaborate-Get-Started](images/sales-new-opportunity-collaborate-get-started.png)
+![sales-new-opportunity-collaborate-get-started](images/sales-new-opportunity-collaborate-get-started.png)
 
 Next select the existing team and then click **Next**:
 
-![Select-Team](images/sales-new-opportunity-collaborate-select-team.png)
+![sales-new-opportunity-collaborate-select-team](images/sales-new-opportunity-collaborate-select-team.png)
 
-Let's create a new channel by clicking **+ Create Bew Channel**:
+Let's create a new channel by clicking **+ Create ngit aew Channel**:
 
-![Create-Channel](images/sales-new-opportunity-collaborate-create-new-channel.png)
+![sales-new-opportunity-collaborate-create-new-channel](images/sales-new-opportunity-collaborate-create-new-channel.png)
 
 Specify a name for the new channel, e.g. **Hot Opportunities** and click **Next**:
 
-![New-Channel-Name](images/sales-new-opportunity-collaborate-new-channel-name.png)
+![sales-new-opportunity-collaborate-new-channel-name](images/sales-new-opportunity-collaborate-new-channel-name.png)
 
 And finally select the members for the new channel and click **Finish**:
 

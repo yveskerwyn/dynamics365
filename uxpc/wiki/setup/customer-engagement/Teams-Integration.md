@@ -72,4 +72,4 @@ Choose your environment and **Sales Hub** as the application you want to access 
 
 ## Next
 
-[Enable the Sales Insights features](Enable-the-Sales-Insights-features.md)
+[SharePoint Integration](SharePoint-Integration.md)
