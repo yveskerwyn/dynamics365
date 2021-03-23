@@ -1,32 +1,23 @@
 # Sales Demo
 
-TO DO:
-
-- Add section on OneDrive integration
-- Add section on Email Engagement
-- Add section on the Process Analyzer app; see: https://appsource.microsoft.com/en-us/product/power-bi/pbi_msdynamics365processanalyzer.pbi-d365-processanalyzer
-
-Dynamics 365 provides the ability to manage an organization's entire sales lifecycle process from generation of leads to order management and invoice processing. How much an organization elects to use depends on the organization. Many organizations do already have an existing ERP software platform that is used for accounting, inventory management, and purchasing. It is not uncommon to integrate the sales order processing capabilities of D365 with an external application.
-
 From [Dynamics 365 Home](https://home.dynamics.com/) go to **Sales Hub**:
 
 ![Dynamics 365 Home](images/sales-dynamics-365-home.png)
 
-Start by explaining the setup of the **Sales Hub** app of Dynamics 365. Explain the following:
+Start by explaining the setup of the Dynamics 365 **Sales Hub** app. 
+
+Cover the following:
 
 - Sitemap (left side of your screen)
-- You can click away the sitemap to have a bigger view of the necessities
-- Recently opened + you can pin items to your pinned items for quicker navigation
-- Accounts vs contacts
-- Leads vs opportunities
-- Quotes, orders, invoices, products
-- For the sake of this demo, we're not going over marketing lists and quick campaigns + Goals and Forecasts
-- Go to App Settings
+- You can click the sitemap away to have a bigger view of the necessities
+- Recently opened pages
+- Pinned pages
+- Accounts vs Contacts
+- Leads vs Opportunities
+- Quotes, Orders, Invoices, Products
+- App Settings
 
 ## Leads
-
-Use your e-mail account for this.
-Your team member is xxx@xxx.onmicrosoft.com.
 
 Under **Sales** click **Leads**:
 
@@ -36,16 +27,22 @@ Create a new lead:
 
 - Lead Source: **Trade Show**
 - Rating: **Warm**
-- Topic: **Business material for new employees.**
-- First Name: **Weston**
-- Last Name: **Smalling**
+- Topic: **CDP**
+- First Name: **Sofie**
+- Last Name: **Verschooren**
 - Job Title: **Managing Partner**
 - Mobile Phone: **+32475704518**
-- Email: **westonsmalling@outlook.com**
-- Company: **Smalling Incorporated**
+- Email: **sofieverschooren@outlook.com**
+- Company: **Verschooren & Co**
 
+Click **Save**.
 
-![New Sales Lead](images/sales-new-lead.png)
+When this is your first use you will be requested Dynamics 365 to access your Outlook data (email, calendar and contacts), so you can receive activity and contact suggestions:
+
+![sales-new-lead](images/sales-new-lead.png)
+
+Click **Allow access**.
+
 
 Discuss:
 - First entry in the timeline
@@ -58,47 +55,47 @@ Update the "BANT" (Budget - Authority - Need - Timing) details in the first stag
 - Purchase Budget: **20.000**
 - Purchase Process: **Individual**
 - Identify Decision Maker: **Completed**
-- Capture Summary: **Employees need business material for their start-up business**
+- Capture Summary: **Need for better data-driven approach**
 
 Go back to the home page and go to the lead that you've just created. 
 
 Now discuss the different views you can enable for each list.
 
-Let's discuss the **sales navigator** plugin in Dynamics 365 to view the leads' information.
+Let's discuss the **Sales Navigator** plugin in Dynamics 365 to view the leads' information.
 
 ## Qualify
 
-Since we are not sure whether we can qualify our lead as an opportunity, we'll first plan a follow-up call with the customer, by clicking the **+** sign  and then **Phone Call** under **Activity**:
+Since we are not sure whether we can qualify our lead as an opportunity, we'll first plan a follow-up call with the customer, by clicking the **+** sign in the **Timeline** and then **Phone Call** under **Activity**:
 
-![image.png](images/sales-new-lead-add-phone-call.png)
+![sales-new-lead-add-phone-call](images/sales-new-lead-add-phone-call.png)
 
 In the **Quick Create** pane that shows up specify a **Subject** and a **Phone number**, and click **Save and Close**:
 
-![Quick Create Phone Call](images/sales-new-lead-quick-create-phone-call.png)
+![sales-new-lead-quick-create-phone-call](images/sales-new-lead-quick-create-phone-call.png)
 
 Howering over the newly created activity will bring up a set of little acticity icons:
 
-![Activty Icons](images/sales-new-lead-activity-icons.png)
+![sales-new-lead-activity-icons](images/sales-new-lead-activity-icons.png)
 
 By clicking the left most activity icon you can assign the phone call to a colleague:
 
-![Assign Phone Call](images/sales-new-lead-assign-phone-call.png)
+![sales-new-lead-assign-phone-call](images/sales-new-lead-assign-phone-call.png)
 
 As a result the activity will appear as a new activity for your colleague, who can access his activities via the site map under **My Work**:
 
-![Activties](images/sales-my-work-activities.png)
+![sales-my-work-activities](images/sales-my-work-activities.png)
 
 Clicking the activity opens the activity in a pop-up window where you can mark the activity as completed by clicking **Mark Complete**:
 
-![Mark-Complete](images/sales-mark-activity-as-complete.png)
+![sales-mark-activity-as-complete](images/sales-mark-activity-as-complete.png)
 
 Back on the new lead form click **Qualify**:
 
-![Qualify-Lead](images/sales-new-lead-qualify.png)
+![sales-new-lead-qualify](images/sales-new-lead-qualify.png)
 
 At this point the contact you specified might already exist, in that case Sales Hub will invite you to confirm the match:
 
-![Matching Information Found](images/sales-new-opportunity-matching-information-found.png)
+![sales-new-opportunity-matching-information-found](images/sales-new-opportunity-matching-information-found.png)
 
 If the contact is new it will be created.
 
@@ -110,39 +107,39 @@ Discuss:
 
 We are actually seeing the newly created opportunity:
 
-![New-Opportunity](images/sales-new-opportunity-created.png)
+![sales-new-opportunity-created](images/sales-new-opportunity-created.png)
 
-Next we will create a new appointment to discuss the details of the possible sales with Weston.
+Next we will create a new appointment to discuss the details of the possible sales.
 
-Click the **+** sign in on the **Timeline** and then click **Activity** | **Appointment**:
+Click again the **+** sign in the **Timeline** and then click **Activity** | **Appointment**:
 
-![Add-Appointment](images/sales-new-opportunity-add-appointment.png)
+![sales-new-opportunity-add-appointment](images/sales-new-opportunity-add-appointment.png)
 
 In the **Quick Create** pane that appears enter a **Subject** and click **Save and Close**:
 
-![Quick-Create-Appointment](images/sales-new-opportunity-quick-create-appointment.png)
+![sales-new-opportunity-meeting-invitation-received](images/sales-new-opportunity-meeting-invitation-received.png)
 
-Weston will be invited by e-mail to the meeting:
+The customer will be invited by email to the meeting:
 
-![Meeting Invitation](images/sales-new-opportunity-meeting-invitation-received.png)
+![sales-new-opportunity-meeting-invitation-received](images/sales-new-opportunity-meeting-invitation-received.png)
 
-> Note that we will discuss later that emails sent to Dynamics 365 contacts can be auto captured and suggested as new activities once configured to do so. In case auto capture was already configured for this the invitation that was just sent will automatically appear as an new activity, making it visible for all members of the sales team associated with this opportinuty. Alternativelly you can also go to Outlook and explicitly mark this email to be tracked by Dynamics 365 as an activity for the opportunity using the **Dynamics 365 Sales App for Outlook** that will also be discussed below.
+> Note that we will discuss later that emails sent to Dynamics 365 contacts can be auto captured and suggested as new activities once configured to do so. In case auto capture was already configured the invitation that was just sent will automatically appear as an new activity, making it visible for all members of the sales team associated with this opportinuty. Alternativelly you can also go to Outlook and explicitly mark this email to be tracked by Dynamics 365 as an activity for the opportunity using the **Dynamics 365 Sales App for Outlook** that will also be discussed below.
 
 Notice that the **Assistant** section is currently still empty. Click **Refresh**:
 
-![Refresh-Opportunity](images/sales-new-opportunity-refresh.png)
+![sales-new-opportunity-refresh](images/sales-new-opportunity-refresh.png)
 
 After having clicked **Refresh** an upcomming meeting notification for your appointment will appear in the **Assistant** section:
 
-![Upcoming-Meeting-Notification](images/sales-new-opportunity-upcoming-meeting-notification.png)
+![sales-new-opportunity-upcoming-meeting-notification](images/sales-new-opportunity-upcoming-meeting-notification.png)
 
 Next, let's add one of your colleagues as a member of the sales team for this new opportunity, by clicking the **+ New Connection** in the **Sales team** menu:
 
-![Add-Sales-Team-Member](images/sales-new-opportunity-add-sales-team-member.png)
+![sales-new-opportunity-add-sales-team-member](images/sales-new-opportunity-add-sales-team-member.png)
 
-In the follow-up call that happened we realized that the assistant of Weston is a stakeholder as well. We should add her to the **Stakeholders**, by clicking **+ New Connection** in the **Stakeholders** menu:
+In the follow-up call that happened we realized that the assistant of Sofie is a stakeholder as well. We should add her to the **Stakeholders**, by clicking **+ New Connection** in the **Stakeholders** menu:
 
-![Add-Stakeholder](images/sales-new-opportunity-add-stakeholder.png)
+![sales-new-opportunity-add-stakeholder](images/sales-new-opportunity-add-stakeholder.png)
 
 Now Discuss the following:
 - Opportunity fields:
@@ -155,18 +152,18 @@ Now Discuss the following:
 - Stakeholders section now includes contact
 - Sales team section
 
-Show stage:
+Show the **Development** stage details in the business process flow:
 
-![Development-Stage](images/sales-new-opportunity-development-stage.png)
+![sales-new-opportunity-development-stage](images/sales-new-opportunity-development-stage.png)
 
 Specify:
-- Current Situation: **They are hiring new employees**
-- Customer Need: **The new employees need a business phone**
-- Proposed Solution: **15 times iPphone 10, 10 times iPhone 11, 25 phone protector cases**
+- Current Situation: **Having little insight about their customers.**
+- Customer Need: **360-view on customers.**
+- Proposed Solution: **Dynamics 365 Sales + Customer Insights.**
 
 Hit **Save** and show that the stage is updated:
 
-![Updated-Stage](images/sales-new-opportunity-updated-stage.png)
+![sales-new-opportunity-updated-stage](images/sales-new-opportunity-updated-stage.png)
 
 ## Business Process Flow (optional)
 
@@ -174,85 +171,85 @@ Show how to create or customize a Business Process Flow.
 
 Go to the [Power Apps Maker Portal](https://make.powerapps.com), and navigate to the **Business process flows** (tab) via **Flows** in the sitemap:
 
-![Business-Process-Flows](images/sales-business-process-flows.png)
+![sales-business-process-flows](images/sales-business-process-flows.png)
 
 Open the **Opportunity Sales Process**:
 
-![View-Business-Process-Flow](images/sales-view-business-process-flow.png)
+![sales-view-business-process-flow](images/sales-view-business-process-flow.png)
 
 ## Dynamics 365 App for Outlook
 
 Switch to **Outlook** and show that the meeting was nicely synced to Outlook:
 
-![Appointment-Synced-to-Outlook](images/sales-appointment-synced-to-outlook.png)
+![/sales-appointment-synced-to-outlook](images/sales-appointment-synced-to-outlook.png)
 
 Let's now create an additional appointment, this time from Outlook:
 
-![Dynamics-365-App-for-Outlook](images/sales-outlook-integration-new-meeting.png)
+![sales-outlook-integration-new-meeting](images/sales-outlook-integration-new-meeting.png)
 
 After having specified **Meeting other stakeholders** as the title/subject of the meeting you will discover that Outlook will suggest attendees that you have already been inviting previously when creating appointments in Dynamics 365 Sales:
 
-![Dynamics-365-App-for-Outlook](images/sales-outlook-integration-suggested-attendees.png)
+![sales-outlook-integration-suggested-attendees](images/sales-outlook-integration-suggested-attendees.png)
 
 Next click the elipses from menu and select **Dynamics 365** to bring up the **Dynamics 365 App for Outlook** add-in:
 
-![Outlook-Appointment](images/sales-new-appointment-from-outlook.png)
+![sales-new-appointment-from-outlook](images/sales-new-appointment-from-outlook.png)
 
 From the **Dynamics 365 App for Outlook** add-in you have several options to mark the meeting as to be tracked by Dynamics 365.
 
 First option is to click the elipses next to **Not tracked** and select **Track without Regarding**:
 
-![Track-without-Regarding](images/sales-track-meeting-without-regarding.png)
+![sales-track-meeting-without-regarding](images/sales-track-meeting-without-regarding.png)
 
 Another option to mark this meeting as to be tracked by Dynamics 365 is clicking the **Set Regarding** field which brings up a **Look for Records** field where you can specify with which Dynamics 365 record you want to associate this meeting:  
 
-![Set-Regarding](images/sales-new-opportunity-set-regarding.png)
+![sales-new-opportunity-set-regarding](images/sales-new-opportunity-set-regarding.png)
 
 Below the **Look for Records** field you can select any of the recent Dynamics 365 records, e.g. the opportunity record you just created, or by clicking **All records** link you can select from a list with all existing records. If the Dynamics 365 record with which you want to associate the meeting doen't exist yet you can also create here by clicking **+ New Record** from where you are guided to create any type of new Dynamics 365 record:
 
-![Create-Record](images/sales-dynamics-365-app-for-outlook-create-record.png)
+![sales-dynamics-365-app-for-outlook-create-record](images/sales-dynamics-365-app-for-outlook-create-record.png)
 
 Let's go for the **track regarding** option by selecting the new opportunity record:
 
-![Set-Regarding](images/sales-dynamics-365-app-for-outlook-set-regarding.png)
+![sales-dynamics-365-app-for-outlook-set-regarding](images/sales-dynamics-365-app-for-outlook-set-regarding.png)
 
-If you choose to have this meeting not tracked by Dynamics 365, then the meeting will not show up in the timeline of any Dynamics 365 record, unless auto capture was configured to auto track meeting
+If you choose to have this meeting not tracked by Dynamics 365, then the meeting will not show up in the timeline of any Dynamics 365 record, unless auto capture was configured to auto track meetings.
 
 > See [Which activities are captured?](https://docs.microsoft.com/en-us/dynamics365/ai/sales/free-auto-capture#which-activities-are-captured) to undestand whixh activities are track with Auto Capture.
 
 For the sake the demo you might also want to create another meeting, but without keep it untracted in order to show the difference. However be aware that in case premium auto capture is enabled that meetings will most problably still show up as suggested activities. So review the **Sales Insights settings**:
 
-![Review-the-Sales-Insights-settings](images/sales-review-sales-insights-settings.png)
+![sales-review-sales-insights-settings](images/sales-review-sales-insights-settings.png)
 
 Switch back to the opportunity and see the **What you've missed** filter in the Timeline, showing untracked emails and/or meetings that got captured by Auto Capture:
 
-![Timeline-What-You-Have-Missed](images/sales-timeline-what-you-have-missed.png)
+![sales-timeline-what-you-have-missed](images/sales-timeline-what-you-have-missed.png)
 
 Open the mailbox of Sofie and send a message to yourself:
 
-![Send-Email](images/sales-send-mail-from-outlook-to-yourself.png)
+![sales-send-mail-from-outlook-to-yourself](images/sales-send-mail-from-outlook-to-yourself.png)
 
 In Outlook open the received e-mail and explicitly **track the e-mail**:
 
-![Receive-Email](images/sales-receive-email.png)
+![sales-receive-email](images/sales-receive-email.png)
 
 In Dynamics 365 Sales Hub refresh the timeline:
 
-![Refresh-Timeline](images/sales-refresh-timeline.png)
+![sales-refresh-timeline](images/sales-refresh-timeline.png)
 
 As a result now the email shows up:
 
-![Refreshed-Timeline](images/sales-refreshed-timeline.png)
+![sales-refreshed-timeline](images/sales-refreshed-timeline.png)
 
 ## Auto Capture
 
 Click the gear button on the navigation bar, and then choose **Personalization Settings** from the menu:
 
-![Personalization-Settings](images/sales-personalization-settings.png)
+![sales-personalization-settings](images/sales-personalization-settings.png)
 
 Click the **Email** tab:
 
-![Email Settings Personalization](images/sales-personalization-settings-email.png)
+![sales-personalization-settings-email](images/sales-personalization-settings-email.png)
 
 Update which emails should be tracked automatically, the default is **Email messages in response to Dynamics 365 email**, change it it **Email messages from Dynamics 365 Leads, Contacts and Accounts**:
 
@@ -260,19 +257,26 @@ Update which emails should be tracked automatically, the default is **Email mess
 
 Send again a new mail from Sofie to your mailbox:
 
-![Send-Another-Email](images/sales-send-another-email-from-outlook-to-yourself.png)
+![sales-personalization-settings-track-emails-from-dynamics-365](images/sales-send-another-email-from-outlook-to-yourself.png)
 
 The **Auto Capture** feature should pick up this e-mail and show it in the timelime of the contact:
 
-![Autocaptured-Email](images/sales-new-email-auto-captured-in-timeline.png)
+![sales-new-email-auto-captured-in-timeline](images/sales-new-email-auto-captured-in-timeline.png)
+
+Note that at this point the received email will only be visible to you, not to any of your colleagues. In order to make this email also visible to your colleagues the **Sync and connect** icon that appears when you hover over the suggested activity in the timeline.
+
+This will bring up following pop-up:
+
+![sync-and-connect-suggested-activity](images/sync-and-connect-suggested-activity.png)
+
 
 Check the **Sales Insights Settings**:
 
-![Sales-Insights-Settings](images/sales-check-sales-insights-settings.png)
+![sales-check-sales-insights-settings](images/sales-check-sales-insights-settings.png)
 
 Make sure that at least **Basic auto capture** is enabled:
 
-![Auto-Capture-Settings](images/sales-auto-capture-settings.png)
+![sales-auto-capture-settings](images/sales-auto-capture-settings.png)
 
 ## Connect your Opportunity to Microsoft Teams
 
@@ -404,3 +408,8 @@ When the invoice has been paid you can close the invoice.
 Invoice will become read-only as well for historical purposes.
 
 Show historical invoices with their status.
+
+## Still to do
+
+- Add section on OneDrive integration
+- Add section on Email Engagement
