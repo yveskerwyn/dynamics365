@@ -1,4 +1,4 @@
-# Customer Service Demo
+# Customer Insights Demo
 
 Below demo is based on the ***Customer Insights in a Day** workshop available from the **Product assets - Customer Insights** collection on MPN: https://aka.ms/cipartner
 
