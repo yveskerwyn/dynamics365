@@ -24,7 +24,7 @@ Follow the steps as show below, in the third step provide the link to your Share
 
 In the last step click **Finish**.
 
-Next click  **Document Management Settings**:
+Next click **Document Management Settings**:
 
 ![Document-Management-Settings](images/sales-sharepoint-integration-document-management-settings.png)
 
