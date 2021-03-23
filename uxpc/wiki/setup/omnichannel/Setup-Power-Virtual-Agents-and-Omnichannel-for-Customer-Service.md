@@ -30,9 +30,13 @@ Click the **Start your trial >** button in the e-mail you received, this will br
 
 ![screenshot](images/power-virtual-agent-email-start-your-trial.png)
 
-Navigate to http://powerva.microsoft.com/:
+Navigate to http://powerva.microsoft.com/, choose your country/region and click the **Start free trial** button:
 
-![screenshot](images/power-virtual-agents.png)
+![virtual-agent-welcome](images/virtual-agent-welcome.png)
+
+This brings you to the next screen:
+
+![power-virtual-agents](images/power-virtual-agents.png)
 
 Give your first bot a name, e.g. **Demo Bot**, specify **English** as language, and make sure to select your  environment (not the default one) where you setup the Dynamics 365 apps, in our case **Ce Trial - Europe**:
 
@@ -188,7 +192,7 @@ Click the **Routing Rules** tab and click **+ Add**:
 
 ![screenshot](images/omnichannel-admin-new-workstream-new-routing-rule.png)
 
-Give the new rule a name, e.g. **Demo Bot routing rule**, select the queue you just created and click **Save & Close**:
+Give the new rule a name, e.g. **Demo Bot routing rule**, select the queue you just created and click **Save**:
 
 ![screenshot](images/omnichannel-admin-new-workstream-new-routing-rule-save-and-close.png)
 
@@ -210,7 +214,7 @@ Again click **Save & Close** to save and close the new workstream.
 
 ## Create a new channel for the chat widget
 
-This will be the entry point from the chat widget that will apper on the customer self-service portal.
+This will be the entry point from the chat widget that will appear on the customer self-service portal.
 
 Navigate to **Channels** | **Chat** and click **+ New**:
 

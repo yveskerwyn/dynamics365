@@ -1,7 +1,5 @@
 # Sales Demo
 
-[[_TOC_]]
-
 TO DO:
 
 - Add section on OneDrive integration

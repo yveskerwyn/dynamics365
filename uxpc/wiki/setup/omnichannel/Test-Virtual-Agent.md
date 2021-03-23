@@ -14,7 +14,7 @@ Or as shown here below via the **Power Apps Maker Portal**:
 
 ![image.png](images/omnichannel-power-apps-maker-portal-for-customer-service-app.png)
 
-When Sam starts a conversation on the home page he will first talk to the virtual agent, and when he says "Talk to agent" he will be transferred to the Omnichannel agent thay is availble through the Omnichannel for Customer Service app.
+When Sam starts a conversation on the home page he will first talk to the virtual agent, and when he says "Talk to agent" he will be transferred to the Omnichannel agent that is available through the Omnichannel for Customer Service app.
 
 For all other pages on the Customer Self-Service Portal using the chat widget will allways directly transfer the call the a human agent.
 
