@@ -218,3 +218,4 @@ Review the result:
 
 ![](images/InterestsEnrichement.png)
 
+![](images/DataEnrichmentOnProfile.png)
