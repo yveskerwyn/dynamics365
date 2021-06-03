@@ -9,8 +9,8 @@ Change your focus **at any time** by using the navigation menu:
 ## Data Sources
 
 - eCommerceContacts Extract of Customers who have made an online purchase: https://aka.ms/CI-ILT/Contacts 
-- LoyaltyScheme Extract of Customers who’ve signed-up for the Contoso Retail Loyalty Card Scheme: https://aka.ms/CIILT/LoyaltySchemeCustomers 
-- OnlinePurchases Extract of purchases made via the Contoso Retail Website: https://aka.ms/CIILT/OnlinePurchases 
+- LoyaltyScheme Extract of Customers who’ve signed-up for the Contoso Retail Loyalty Card Scheme: https://aka.ms/CI-ILT/LoyaltySchemeCustomers 
+- OnlinePurchases Extract of purchases made via the Contoso Retail Website: https://aka.ms/CI-ILT/OnlinePurchases 
 - POSPurchases Extract of in-store purchase detail:https://aka.ms/CI-ILT/POSPurchases
 - WebsiteReviews Online Website Reviews from online users: https://aka.ms/CI-ILT/WebReviews
 
