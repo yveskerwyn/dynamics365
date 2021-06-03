@@ -1,11 +1,18 @@
 # Customer Insights
 
-
 Get insights about **who** your customers are, or about **how** they are engaging with your business. 
 
 Change your focus **at any time** by using the navigation menu:
 
 ![](images/ChooseYourFocus.png)
+
+## Data Sources
+
+- eCommerceContacts Extract of Customers who have made an online purchase: https://aka.ms/CI-ILT/Contacts 
+- LoyaltyScheme Extract of Customers who’ve signed-up for the Contoso Retail Loyalty Card Scheme: https://aka.ms/CIILT/LoyaltySchemeCustomers 
+- OnlinePurchases Extract of purchases made via the Contoso Retail Website: https://aka.ms/CIILT/OnlinePurchases 
+- POSPurchases Extract of in-store purchase detail:https://aka.ms/CI-ILT/POSPurchases
+- WebsiteReviews Online Website Reviews from online users: https://aka.ms/CI-ILT/WebReviews
 
 ## Data Ingestion
 
